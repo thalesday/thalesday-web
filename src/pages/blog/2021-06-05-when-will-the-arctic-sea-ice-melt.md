@@ -12,7 +12,7 @@ At Thales Day 2021 in the Round Tower, Copenhagen we debated constructive climat
 
 ![](/img/191788255_162650179149111_5356164308051694633_n.jpg)
 
-The winner of this years olive tree with a guess of 2042 graciously hands it over to another audience member who really wanted it to grace his nearby thrift shop.  
+The winner of this years olive tree with a guess of 2042 graciously hands it over to a nearby thrift shop owner that was in the audience, where it will now greed costumers.   
 
 ![](/img/image00005-3-.jpeg)
 
