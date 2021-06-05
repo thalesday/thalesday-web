@@ -4,6 +4,8 @@ title: Words of Support
 date: 2021-06-05T09:12:44.920Z
 description: From an interdisciplinary scientist with breathtaking impact
 featuredimage: /img/john_b._goodenough_-cropped-.jpg
+tags:
+  - Support
 ---
 “I applaud your endeavor to establish Thales Day on the calendar at a time when language is used more often for propaganda than as a medium for the pursuit of truth. 
 
