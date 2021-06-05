@@ -3,6 +3,7 @@ templateKey: blog-post
 title: When will the Arctic sea ice melt?
 date: 2021-06-05T09:32:25.889Z
 description: "A Thales Day quiz "
+featuredpost: true
 featuredimage: /img/thales-day-2021-quiz-oliventræ-højde-reduceret-til-70-191788255_162650179149111_5356164308051694633_n.jpg
 tags:
   - Quiz
