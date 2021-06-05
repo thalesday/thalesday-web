@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Words of Support
 date: 2021-06-05T09:12:44.920Z
-description: "From "
+description: From an interdisciplinary scientist with breathtaking impact
 featuredimage: /img/john_b._goodenough_-cropped-.jpg
 ---
 “I applaud your endeavor to establish Thales Day on the calendar at a time when language is used more often for propaganda than as a medium for the pursuit of truth. 
@@ -17,4 +17,4 @@ John B. Goodenough” 
 
 \
 Bio:\
-Nobel laureate John B. Goodenough is a solid state physicist and chemical engineer from the University of Texas, USA. He is the father of the lithium-ion battery technology that ushered in the age of portable electronic devices and is powering the transition to electric vehicles. Goodenough also helped lay the groundwork for the development of the random-access memory (RAM) for the digital computer.
+Nobel laureate John B. Goodenough is a solid state physicist and chemical engineer from the University of Texas, USA. He is the father of the lithium-ion battery technology that ushered in the age of portable electronic devices and is powering our current transition to electric vehicles. Goodenough also helped lay the groundwork for the development of the random-access memory (RAM) for the digital computer.
