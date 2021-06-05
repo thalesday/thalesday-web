@@ -11,6 +11,8 @@ tags:
 
 \- Peter Singer
 
+![](/img/peter-singer-wikipedia-billede-public-domain-800px-peter_singer_01.jpg)
+
 Bio: 
 
 Peter Singer is a world renowned philosopher from Princeton University, USA and University of Melbourne, Australia specializing in bioethics and practical ethics. He is credited as the intellectual founder of the modern animal rights movement, as well as being the founded of the organisation The Life You Can Save that advocates altruistic behaviour: \
